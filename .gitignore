@@ -1,3 +1,6 @@
 .env
 dist/
 venv/
+build/
+**/__pycache__/
+**/*.pkg
